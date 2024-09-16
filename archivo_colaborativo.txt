@@ -2,3 +2,4 @@ Este es el contenido inicial del proyecto
 Este es un cambio en la rama main
 Cambio en feature-branch1
 Cambio conflictivo en mainCambio que queremos revertir
+Otro cambio más en main
