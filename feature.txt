@@ -1,2 +1,3 @@
 Contenido inicial del archivo feature.txt
 \n## Cambios buenos\n\nEste commit no introduce errores.
+\n## Cambios malos\n\nEste commit introduce un error.
